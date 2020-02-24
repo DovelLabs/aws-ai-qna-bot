@@ -1,0 +1,9 @@
+{
+  "region": "us-east-1",
+  "profile": "sandbox",
+  "publicBucket": "aws-bigdata-blog",
+  "publicPrefix": "artifacts/aws-ai-qna-bot",
+  "devEmail": "saeed.darya@doveltech.com",
+  "namespace": "dev",
+  "stackNamePrefix": "DovelChatbot"
+}
